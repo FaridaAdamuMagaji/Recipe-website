@@ -5,8 +5,8 @@ h1{
     justify-items: center;
     display: grid;
     gap: 30px;
+    width: 80%;
     margin: auto;
-    padding: 5px 60px;
     
 }
 .mealContent{
