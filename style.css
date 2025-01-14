@@ -1,0 +1,78 @@
+body{
+    background-color: ;
+}
+h1{
+    text-align: center;
+}
+.mealContent{
+    text-align: center;
+}
+li{
+    list-style: none;
+    margin-left: -40px;
+}
+/*
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+
+commented original
+.mealList{
+    background-color: #F7F7F7;
+    display: grid;
+    gap: 30px;
+    box-shadow: #F7F7F7;
+    text-align: center;
+    /*width: 340px;*/
+    /*justify-self: center;*/
+    
+}/*
+.mealContent{
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: aqua;
+}
+img{
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 30%;
+}
+p{
+    
+}
+li{
+    list-style: none;
+    margin-left: -40px;
+
+}
+button{
+    background-color: red;
+    text-align: center;
+    justify-self: center;
+    margin-top: 8px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+//media query
+@media screen and (min-width: 760px){
+    .mealList{
+        grid-template-column: 1fr 1fr;
+
+    }
+
+}*/
+    
+    
+
+    
