@@ -1,60 +1,33 @@
-body{
-    background-color: ;
-}
 h1{
     text-align: center;
 }
+.mealList{
+    justify-items: center;
+    display: grid;
+    gap: 30px;
+    margin: auto;
+    padding: 5px 60px;
+    
+}
 .mealContent{
     text-align: center;
+    padding: 10px;
+    border-style: outset;
+    border-radius: 10px;
+    background-color: rgb(250, 244, 232);
+    
 }
 li{
     list-style: none;
     margin-left: -40px;
-}
-/*
-h1{
-    text-align: center;
-    
-}
-h2{
-    text-align: center;
-}
-
-commented original
-.mealList{
-    background-color: #F7F7F7;
-    display: grid;
-    gap: 30px;
-    box-shadow: #F7F7F7;
-    text-align: center;
-    /*width: 340px;*/
-    /*justify-self: center;*/
-    
-}/*
-.mealContent{
-    text-align: center;
-    border-radius: 10px;
-    padding: 20px;
-    background-color: aqua;
 }
 img{
     border-radius: 10px;
     margin-top: 20px;
-    width: 30%;
-}
-p{
-    
-}
-li{
-    list-style: none;
-    margin-left: -40px;
-
+    height: 140px;
 }
 button{
-    background-color: red;
-    text-align: center;
-    justify-self: center;
-    margin-top: 8px;
+    background-color: green;
     padding: 10px 40px;
     border-radius: 5px;
     border: none;
@@ -64,15 +37,30 @@ a{
     text-decoration: none;
 }
 
-//media query
-@media screen and (min-width: 760px){
-    .mealList{
-        grid-template-column: 1fr 1fr;
 
+@media screen and (min-width: 768px) {
+    .mealList{
+        grid-template-columns: 1fr 1fr;
+        
     }
 
-}*/
-    
+}
+@media screen and (min-width: 1024px){
+    .mealList{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+}
+@media screen and (min-width: 1440px){
+    .mealList{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+@media screen and (min-width: 2560px){
+    .mealList{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
     
 
     
