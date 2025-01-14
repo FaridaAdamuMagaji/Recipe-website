@@ -28,7 +28,7 @@ This project was designed using HTML5, CSS and javaScript and it enhances overal
 
 Checkout the Live Demo of this project: [Live Demo](https://www.loom.com/share/0618a9af46534e579514713f00621bcd?sid=6b9c977c-c9e3-4a52-8e63-e58e51e5cf95)
 ## Live-demo 
--Checkout the live Demo of the project: [Live Demo]()
+-Checkout the live Demo of the project: [Live Demo](https://recipe-website-5xoh.onrender.com)
 
 ## Technologies Used 
 -HTML5
